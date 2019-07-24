@@ -8,3 +8,6 @@ application.properties配置文件错误
 // mybatis.mapper-locations。classpath=com/ui/toto/toto/mapper/*.xml 修改为
 mybatis.mapper-locations=classpath:com/ui/toto/toto/mapper/*.xml
 ```
+
+# 异常处理demo参考
+http://www.imooc.com/article/260354
